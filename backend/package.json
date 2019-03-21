@@ -5,13 +5,14 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm i -S express nodemon pg",
     "start": "nodemon server.js"
   },
   "author": "Sushil Ghambir",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^1.18.9",
-    "pg": "^7.8.0"
+    "nodemon": "^1.18.10",
+    "pg": "^7.9.0"
   }
 }
