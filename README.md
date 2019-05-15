@@ -1,7 +1,7 @@
 # Permis Théorique Quizz - React Native app with node API
 
 - Frontend : React Native App
-  - Build : 'npm run build'
+  - Install : 'npm install'
   - Start : 'npm run start'
   - Simulate on android or IOS
   
