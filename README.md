@@ -9,7 +9,7 @@
   - Create DB in postgres named 'permis_theorique'
   - Execute the 'init.sql' script on the DB
   - Add your username and password in controllers/categoriesController.js
-  - Build : 'npm run build'
+  - Install : 'npm install'
   - Start the API : 'npm run start'
   
  - API Routes : 
